@@ -9,5 +9,5 @@
 
 // Array of bytes
 
-const bytes= [202,203,204];
-console.log(bytes);
+// const bytes= [202,203,204];
+// console.log(bytes);
