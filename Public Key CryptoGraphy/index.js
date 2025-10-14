@@ -11,3 +11,6 @@
 
 // const bytes= [202,203,204];
 // console.log(bytes);
+
+// const bytes = new Uint8Array([113,204,205]);
+// console.log(bytes)
